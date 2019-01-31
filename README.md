@@ -1,11 +1,11 @@
 # GiantPass
-A Simple hypercasual made with unity
+Solo project to get used to the Unity Engine.
 
-![alt text](https://media.giphy.com/media/4070R03MTpgMRDIHiF/giphy.gif)
+![alt text](https://media.giphy.com/media/7SKzW568G6kXtp5pmq/giphy.gif)
 
-This Solo Project is made to get used to the Unity Workflow:
+This Project is made to get used to the Unity Workflow.
+
 - Scripting (C#)
-- Unity ShaderGraph
 - 2D Art
 - User interface
 - Unity Animation
